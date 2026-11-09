@@ -337,9 +337,8 @@ Total Price  : 16000.0
 
 ## Author
 
-**Rajkumar Jaiswal**
-
-Java Backend Developer | Java Full Stack Developer
+**Rajkumar Jaiswal**\
+Java Backend Developer \| Java Full Stack Developer
 
 -   **GitHub:** https://github.com/imrajjaiswl
 -   **LinkedIn:** https://www.linkedin.com/in/imrajjaiswl/
